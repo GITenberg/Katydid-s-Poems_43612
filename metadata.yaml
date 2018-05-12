@@ -1,0 +1,26 @@
+_repo: Katydid-s-Poems_43612
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43612-h/images/cover.jpg
+creator:
+  author:
+    agent_name: McKinney, Kate Slaughter
+    alias: McKinney, Mrs. J. I.
+    birthdate: 1857
+    gutenberg_agent_id: '42324'
+    url: http://www.gutenberg.org/2009/agents/42324
+description: ''
+gutenberg_issued: '2013-08-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43612'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'American poetry -- 19th century'
+- !lcc 'PS'
+title: Katydid's Poems
+url: http://www.gutenberg.org/ebooks/43612
